@@ -40,20 +40,14 @@ Financial impact analysis
 Streamlit-based UI
 Real-time prediction using saved model artifacts
 
-6. Hyperparameter Optimization
+# Hyperparameter Optimization
 For the best-performing model (XGBoost):
 Applied GridSearchCV
-
 Tuned:
-
 Tree depth
-
 Learning rate
-
 Number of estimators
-
 Minimum child weight
-
 This improved generalization and reduced overfitting.
 
 # Business Impact Analysis
